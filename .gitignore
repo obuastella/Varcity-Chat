@@ -1,2 +1,4 @@
 .next/
 node_modules/
+node_modules/@next/swc-linux-x64-gnu/*.node
+node_modules/@next/swc-linux-x64-musl/*.node
